@@ -1,0 +1,332 @@
+{
+  "Margherita Pizza": {
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "type": "Vegetarian",
+    "price": 8.99,
+    "rating": 4.6,
+    "ingredients": ["Cheese", "Tomato Sauce", "Basil"],
+    "description": "Classic pizza topped with fresh cheese and basil.",
+    "availability": "Available"
+  },
+
+  "Pepperoni Pizza": {
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "type": "Non-Vegetarian",
+    "price": 10.99,
+    "rating": 4.7,
+    "ingredients": ["Pepperoni", "Cheese", "Tomato Sauce"],
+    "description": "Spicy pepperoni pizza with melted cheese.",
+    "availability": "Available"
+  },
+
+  "Veg Supreme Pizza": {
+    "name": "Veg Supreme Pizza",
+    "category": "Pizza",
+    "type": "Vegetarian",
+    "price": 11.49,
+    "rating": 4.5,
+    "ingredients": ["Onion", "Capsicum", "Olives", "Cheese"],
+    "description": "Loaded vegetable pizza with rich flavors.",
+    "availability": "Available"
+  },
+
+  "Chicken Burger": {
+    "name": "Chicken Burger",
+    "category": "Burgers",
+    "type": "Non-Vegetarian",
+    "price": 7.99,
+    "rating": 4.6,
+    "ingredients": ["Chicken Patty", "Lettuce", "Mayo"],
+    "description": "Juicy chicken burger with fresh toppings.",
+    "availability": "Available"
+  },
+
+  "Veg Burger": {
+    "name": "Veg Burger",
+    "category": "Burgers",
+    "type": "Vegetarian",
+    "price": 6.99,
+    "rating": 4.4,
+    "ingredients": ["Veg Patty", "Lettuce", "Cheese"],
+    "description": "Healthy vegetarian burger.",
+    "availability": "Available"
+  },
+
+  "French Fries": {
+    "name": "French Fries",
+    "category": "Sides",
+    "type": "Vegetarian",
+    "price": 3.99,
+    "rating": 4.3,
+    "ingredients": ["Potatoes", "Salt"],
+    "description": "Crispy golden french fries.",
+    "availability": "Available"
+  },
+
+  "Chicken Wings": {
+    "name": "Chicken Wings",
+    "category": "Starters",
+    "type": "Non-Vegetarian",
+    "price": 9.49,
+    "rating": 4.7,
+    "ingredients": ["Chicken", "Spices"],
+    "description": "Spicy and crispy chicken wings.",
+    "availability": "Available"
+  },
+
+  "Paneer Tikka": {
+    "name": "Paneer Tikka",
+    "category": "Starters",
+    "type": "Vegetarian",
+    "price": 8.49,
+    "rating": 4.6,
+    "ingredients": ["Paneer", "Spices", "Yogurt"],
+    "description": "Grilled paneer cubes with Indian spices.",
+    "availability": "Available"
+  },
+
+  "Chicken Biryani": {
+    "name": "Chicken Biryani",
+    "category": "Main Course",
+    "type": "Non-Vegetarian",
+    "price": 12.99,
+    "rating": 4.8,
+    "ingredients": ["Rice", "Chicken", "Spices"],
+    "description": "Aromatic rice dish cooked with chicken and spices.",
+    "availability": "Available"
+  },
+
+  "Veg Biryani": {
+    "name": "Veg Biryani",
+    "category": "Main Course",
+    "type": "Vegetarian",
+    "price": 10.99,
+    "rating": 4.5,
+    "ingredients": ["Rice", "Vegetables", "Spices"],
+    "description": "Flavorful biryani with mixed vegetables.",
+    "availability": "Available"
+  },
+
+  "Butter Chicken": {
+    "name": "Butter Chicken",
+    "category": "Main Course",
+    "type": "Non-Vegetarian",
+    "price": 13.49,
+    "rating": 4.8,
+    "ingredients": ["Chicken", "Butter", "Cream"],
+    "description": "Creamy and rich butter chicken curry.",
+    "availability": "Available"
+  },
+
+  "Paneer Butter Masala": {
+    "name": "Paneer Butter Masala",
+    "category": "Main Course",
+    "type": "Vegetarian",
+    "price": 11.99,
+    "rating": 4.7,
+    "ingredients": ["Paneer", "Butter", "Tomato Gravy"],
+    "description": "Soft paneer in rich butter gravy.",
+    "availability": "Available"
+  },
+
+  "Tandoori Roti": {
+    "name": "Tandoori Roti",
+    "category": "Breads",
+    "type": "Vegetarian",
+    "price": 1.99,
+    "rating": 4.3,
+    "ingredients": ["Wheat Flour"],
+    "description": "Traditional Indian bread.",
+    "availability": "Available"
+  },
+
+  "Butter Naan": {
+    "name": "Butter Naan",
+    "category": "Breads",
+    "type": "Vegetarian",
+    "price": 2.49,
+    "rating": 4.5,
+    "ingredients": ["Flour", "Butter"],
+    "description": "Soft naan topped with butter.",
+    "availability": "Available"
+  },
+
+  "Caesar Salad": {
+    "name": "Caesar Salad",
+    "category": "Salads",
+    "type": "Vegetarian",
+    "price": 6.49,
+    "rating": 4.2,
+    "ingredients": ["Lettuce", "Croutons", "Cheese"],
+    "description": "Fresh salad with Caesar dressing.",
+    "availability": "Available"
+  },
+
+  "Greek Salad": {
+    "name": "Greek Salad",
+    "category": "Salads",
+    "type": "Vegetarian",
+    "price": 6.99,
+    "rating": 4.4,
+    "ingredients": ["Olives", "Feta", "Vegetables"],
+    "description": "Healthy Mediterranean salad.",
+    "availability": "Available"
+  },
+
+  "Chocolate Brownie": {
+    "name": "Chocolate Brownie",
+    "category": "Desserts",
+    "type": "Vegetarian",
+    "price": 4.99,
+    "rating": 4.7,
+    "ingredients": ["Chocolate", "Flour", "Sugar"],
+    "description": "Rich chocolate brownie.",
+    "availability": "Available"
+  },
+
+  "Ice Cream Sundae": {
+    "name": "Ice Cream Sundae",
+    "category": "Desserts",
+    "type": "Vegetarian",
+    "price": 5.49,
+    "rating": 4.6,
+    "ingredients": ["Ice Cream", "Chocolate Syrup"],
+    "description": "Cold and creamy ice cream dessert.",
+    "availability": "Available"
+  },
+
+  "Cold Coffee": {
+    "name": "Cold Coffee",
+    "category": "Beverages",
+    "type": "Vegetarian",
+    "price": 3.99,
+    "rating": 4.4,
+    "ingredients": ["Coffee", "Milk"],
+    "description": "Chilled coffee drink.",
+    "availability": "Available"
+  },
+
+  "Fresh Lime Soda": {
+    "name": "Fresh Lime Soda",
+    "category": "Beverages",
+    "type": "Vegetarian",
+    "price": 2.99,
+    "rating": 4.3,
+    "ingredients": ["Lime", "Soda"],
+    "description": "Refreshing lime soda.",
+    "availability": "Available"
+  },
+
+  "Veg Fried Rice": {
+    "name": "Veg Fried Rice",
+    "category": "Main Course",
+    "type": "Vegetarian",
+    "price": 8.99,
+    "rating": 4.4,
+    "ingredients": ["Rice", "Vegetables", "Soy Sauce"],
+    "description": "Stir-fried rice with fresh vegetables and light spices.",
+    "availability": "Available"
+  },
+
+  "Chicken Fried Rice": {
+    "name": "Chicken Fried Rice",
+    "category": "Main Course",
+    "type": "Non-Vegetarian",
+    "price": 9.99,
+    "rating": 4.6,
+    "ingredients": ["Rice", "Chicken", "Soy Sauce"],
+    "description": "Flavorful fried rice cooked with chicken and spices.",
+    "availability": "Available"
+  },
+
+  "Hakka Noodles": {
+    "name": "Hakka Noodles",
+    "category": "Main Course",
+    "type": "Vegetarian",
+    "price": 8.49,
+    "rating": 4.5,
+    "ingredients": ["Noodles", "Vegetables", "Sauces"],
+    "description": "Classic Indo-Chinese noodles with mixed vegetables.",
+    "availability": "Available"
+  },
+
+  "Chicken Hakka Noodles": {
+    "name": "Chicken Hakka Noodles",
+    "category": "Main Course",
+    "type": "Non-Vegetarian",
+    "price": 9.49,
+    "rating": 4.6,
+    "ingredients": ["Noodles", "Chicken", "Sauces"],
+    "description": "Spicy hakka noodles tossed with chicken.",
+    "availability": "Available"
+  },
+
+  "Tomato Soup": {
+    "name": "Tomato Soup",
+    "category": "Soups",
+    "type": "Vegetarian",
+    "price": 4.49,
+    "rating": 4.2,
+    "ingredients": ["Tomatoes", "Cream", "Spices"],
+    "description": "Warm and comforting tomato soup.",
+    "availability": "Available"
+  },
+
+  "Sweet Corn Soup": {
+    "name": "Sweet Corn Soup",
+    "category": "Soups",
+    "type": "Vegetarian",
+    "price": 4.99,
+    "rating": 4.3,
+    "ingredients": ["Sweet Corn", "Vegetables", "Spices"],
+    "description": "Healthy soup made with sweet corn and vegetables.",
+    "availability": "Available"
+  },
+
+  "Masala Dosa": {
+    "name": "Masala Dosa",
+    "category": "South Indian",
+    "type": "Vegetarian",
+    "price": 7.99,
+    "rating": 4.7,
+    "ingredients": ["Rice Batter", "Potato Masala"],
+    "description": "Crispy dosa filled with spiced potato masala.",
+    "availability": "Available"
+  },
+
+  "Idli Sambar": {
+    "name": "Idli Sambar",
+    "category": "South Indian",
+    "type": "Vegetarian",
+    "price": 6.99,
+    "rating": 4.6,
+    "ingredients": ["Idli", "Sambar"],
+    "description": "Soft idlis served with hot sambar and chutney.",
+    "availability": "Available"
+  },
+
+  "Mango Milkshake": {
+    "name": "Mango Milkshake",
+    "category": "Beverages",
+    "type": "Vegetarian",
+    "price": 4.49,
+    "rating": 4.5,
+    "ingredients": ["Mango", "Milk", "Sugar"],
+    "description": "Refreshing mango milkshake.",
+    "availability": "Available"
+  },
+
+  "Strawberry Milkshake": {
+    "name": "Strawberry Milkshake",
+    "category": "Beverages",
+    "type": "Vegetarian",
+    "price": 4.49,
+    "rating": 4.4,
+    "ingredients": ["Strawberry", "Milk", "Sugar"],
+    "description": "Sweet and creamy strawberry milkshake.",
+    "availability": "Available"
+  }
+}
+
